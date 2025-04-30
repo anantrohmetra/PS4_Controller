@@ -1,5 +1,7 @@
 # 🎮 PS4 Controller to Wekinator (OSC Input)
 
+URL: https://github.com/anantrohmetra/PS4_Controller/blob/main/gamecontroller2_Ps4.py 
+
 This Python script uses a **PS4 controller** to send real-time X and Y values from both joysticks to **Wekinator** via **OSC** (Open Sound Control). It's useful for creative coding, interactive machine learning, and real-time control of generative audio/visual systems.
 
 ## 🧠 What It Does
